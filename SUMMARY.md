@@ -7,16 +7,8 @@
 
 ## 🐧Linux
 
-* [Гайды по Linux](linux/gaidy-po-linux.md)
-
-## Windows
-
-* [🤝 How we Work Together](windows/how-we-work-together.md)
-* [📅 Meetings](windows/meetings.md)
-
-## Android
-
-* [🌴 Requesting Time Off](android/requesting-time-off.md)
+* [📝 Гайды по Linux](linux/gaidy-po-linux/README.md)
+  * [Консоль Gnome](linux/gaidy-po-linux/konsol-gnome.md)
 
 ## Сети
 
