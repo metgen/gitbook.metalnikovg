@@ -9,7 +9,12 @@
 
 * [📝 Гайды по Linux](linux/gaidy-po-linux/README.md)
   * [Консоль Gnome](linux/gaidy-po-linux/konsol-gnome.md)
+* [💻 Приложения](linux/prilozheniya.md)
 
-## Сети
+## 🪟 Windows
+
+* [Гайды по Windows](windows/gaidy-po-windows.md)
+
+## 🌐 Сети
 
 * [Page 1](seti/page-1.md)
