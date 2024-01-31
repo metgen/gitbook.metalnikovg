@@ -5,11 +5,12 @@
 * [🚀 Проект Bashell](README.md)
 * [💖 Правила проекта](o-proekte/pravila-proekta.md)
 
-## 🐧Linux
+## 🐧 Linux
 
 * [📝 Гайды по Linux](linux/gaidy-po-linux/README.md)
   * [Консоль Gnome](linux/gaidy-po-linux/konsol-gnome.md)
 * [💻 Приложения](linux/prilozheniya.md)
+* [💽 Дистрибутивы](linux/distributivy.md)
 
 ## 🪟 Windows
 
@@ -18,3 +19,7 @@
 ## 🌐 Сети
 
 * [Page 1](seti/page-1.md)
+
+## 🤖 Android
+
+* [Page 2](android/page-2.md)
