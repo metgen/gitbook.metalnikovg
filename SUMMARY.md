@@ -5,7 +5,7 @@
 ## О проекте
 
 * [🚀 Bashell GitBook](README.md)
-* [💖 Правила проекта](o-proekte/pravila-proekta.md)
+* [💖 Правила](o-proekte/pravila.md)
 
 ## 🐧 Linux
 
