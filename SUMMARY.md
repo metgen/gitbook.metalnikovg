@@ -11,7 +11,8 @@
   * [Консоль Gnome](linux/gaidy-po-linux/konsol-gnome.md)
   * [Монтирование сетевых папок](linux/gaidy-po-linux/montirovanie-setevykh-papok.md)
 * [💻 Приложения](linux/prilozheniya.md)
-* [💽 Дистрибутивы](linux/distributivy.md)
+* [💽 Дистрибутивы](linux/distributivy/README.md)
+  * [Fedora](linux/distributivy/fedora.md)
 
 ## 🪟 Windows
 
