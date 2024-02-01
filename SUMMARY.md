@@ -10,8 +10,12 @@
 ## 🐧 Linux
 
 * [📝 Гайды по Linux](linux/gaidy-po-linux/README.md)
-  * [Консоль Gnome](linux/gaidy-po-linux/konsol-gnome.md)
-  * [Монтирование сетевых папок](linux/gaidy-po-linux/montirovanie-setevykh-papok.md)
+  * [🎨 Внешний вид](linux/gaidy-po-linux/vneshnii-vid/README.md)
+    * [Консоль Gnome](linux/gaidy-po-linux/vneshnii-vid/konsol-gnome.md)
+    * [Доп. настройки Gnome](linux/gaidy-po-linux/vneshnii-vid/dop.-nastroiki-gnome.md)
+  * [📂 Файлы](linux/gaidy-po-linux/faily/README.md)
+    * [Монтирование сетевых папок](linux/gaidy-po-linux/faily/montirovanie-setevykh-papok.md)
+  * [🗃 Команды](linux/gaidy-po-linux/komandy.md)
 * [💻 Приложения](linux/prilozheniya.md)
 * [💽 Дистрибутивы](linux/distributivy/README.md)
   * [Fedora](linux/distributivy/fedora.md)
