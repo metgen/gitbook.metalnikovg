@@ -2,15 +2,15 @@
 
 Gnome Console — это новый минималистичный эмулятор терминала для Gnome. Он не призван заменить классический терминал Gnome, а выступает просто альтернативой ему, если вам не нужно большое количество настрое которое имеет терминал. Например отсутствует возможность создания профилей. На скриншоте ниже представлены все настройки которые имеет консоль.
 
-<figure><img src="../../.gitbook/assets/snimok-jekrana-ot-2024-01-28-19-50-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gnome-console-setting.png" alt=""><figcaption></figcaption></figure>
 
 Как видите, изменить можно только шрифт. Но у консоль есть интересные визуальные эффекты, например когда вы хотите выполнить что-то от имени суперпользователя, то заголовок терминала загорится красным
 
-<figure><img src="../../.gitbook/assets/snimok-jekrana-ot-2024-01-28-20-00-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gnome-console-root.png" alt=""><figcaption></figcaption></figure>
 
 А если у вас открыта SSH сессия в терминале, то заголовок будет фиолетовым, что бывает очень полезным, когда забываешь что-открыта ssh сессия и думаешь что работаешь со своим ПК
 
-<figure><img src="../../.gitbook/assets/snimok-jekrana-ot-2024-01-28-20-05-32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gnome-console-ssh.png" alt=""><figcaption></figcaption></figure>
 
 Чтобы установить консоль Gnome введите в терминале:
 

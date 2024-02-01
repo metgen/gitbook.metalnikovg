@@ -4,19 +4,19 @@ Fedora — это дистрибутив от RedHat, на котором они
 
 <div>
 
-<figure><img src="../../.gitbook/assets/snimok-jekrana-ot-2024-01-25-20-12-21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fedora_3.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/snimok-jekrana-ot-2024-01-25-20-12-42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fedora_1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/snimok-jekrana-ot-2024-01-25-21-24-45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fedora_2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/snimok-jekrana-ot-2024-01-25-20-14-08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fedora_3 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,7 +24,7 @@ Fedora — это дистрибутив от RedHat, на котором они
 
 Скачать дистрибутив можно на официальном сайте [Fedora](https://fedoraproject.org/). На данный момен самый актуальный дистрибутив Fedora Workstation 39. Чтобы записать его на флешку можно воспользоваться утилитой Rufus. В установке нет ничего сложного, Fedora имеет очень юзер френдли установщик Anaconda, на последнем этапе будет предложено выбрать разметку диска, рекомендую выбирать автоматическую. Если планируете установить его рядом в дуалбуте с Windows, рекомендую использовать для этого отдельный SSD диск. После установки дистрибутива обязательно выполняем обновление системы, команда Fedora Linux рекомендует это делать через официальный магазин приложений Gnome Software.
 
-<figure><img src="../../.gitbook/assets/snimok-jekrana-ot-2024-01-25-20-55-41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gnome-software-update.png" alt=""><figcaption></figcaption></figure>
 
 Но вы так же можете это сделать через терминал, следующими командами
 
