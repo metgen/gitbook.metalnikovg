@@ -24,6 +24,7 @@
 
 * [📝 Гайды по Windows](windows/gaidy-po-windows/README.md)
   * [Обновление приложений Windows при помощи Winget](windows/gaidy-po-windows/obnovlenie-prilozhenii-windows-pri-pomoshi-winget.md)
+* [Кастомизируем PowerShell при помощи Oh My Posh](windows/kastomiziruem-powershell-pri-pomoshi-oh-my-posh.md)
 
 ## 🌐 Сети
 
