@@ -24,7 +24,7 @@ dnf install adw-gtk3-theme
 flatpak install org.gtk.Gtk3theme.adw-gtk3 org.gtk.Gtk3theme.adw-gtk3-dark
 ```
 
-<figure><img src="../../../.gitbook/assets/snimok-jekrana-ot-2024-01-30-23-14-39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/gnome_tweaks.png" alt=""><figcaption></figcaption></figure>
 
 Выберите тему в соответствии со стилем вашей системы и ваши GTK3 приложения начнут отображаться корректно.
 

@@ -22,7 +22,8 @@
 
 ## 🪟 Windows
 
-* [Гайды по Windows](windows/gaidy-po-windows.md)
+* [📝 Гайды по Windows](windows/gaidy-po-windows/README.md)
+  * [Обновление приложений Windows при помощи Winget](windows/gaidy-po-windows/obnovlenie-prilozhenii-windows-pri-pomoshi-winget.md)
 
 ## 🌐 Сети
 
