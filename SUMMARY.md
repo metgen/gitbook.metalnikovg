@@ -16,7 +16,7 @@
   * [📂 Файлы](linux/gaidy-po-linux/faily/README.md)
     * [Монтирование сетевых папок](linux/gaidy-po-linux/faily/montirovanie-setevykh-papok.md)
   * [🗃 Команды](linux/gaidy-po-linux/komandy/README.md)
-    * [Команда cp в Linux](linux/gaidy-po-linux/komandy/komanda-cp-v-linux.md)
+    * [Команда cp](linux/gaidy-po-linux/komandy/komanda-cp.md)
 * [💻 Приложения](linux/prilozheniya.md)
 * [💽 Дистрибутивы](linux/distributivy/README.md)
   * [Fedora](linux/distributivy/fedora.md)
@@ -34,3 +34,7 @@
 ## 🤖 Android
 
 * [Page 2](android/page-2.md)
+
+***
+
+* [📚 Источники](istochniki.md)
