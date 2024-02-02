@@ -6,11 +6,11 @@
 
 Теперь необходимо скачать шрифт [Nerd](https://www.nerdfonts.com/font-downloads) для корректного отображения глифов. Я для примера выбрал CascaydiaCove Nerd Font. После скачивания находим шрифт CaskaydiaCoveNerdFont-Regular.ttf, открываем его и нажимаем установить.
 
-<figure><img src="../.gitbook/assets/win-font-install.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/win-font-install.png" alt=""><figcaption></figcaption></figure>
 
 После установки заходим в настройки терминала, в разделе профилей, выбираем профиль по умолчанию, переходим в оформление и выбираем установленный шрифт CaskaydiaCove NF.
 
-<figure><img src="../.gitbook/assets/win-terminal-settting.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/win-terminal-settting.png" alt=""><figcaption></figcaption></figure>
 
 ### **Установка Oh My Posh для PowerShell**
 
@@ -52,4 +52,4 @@ Get-PoshThemes
 
 в ответ вы получите полный список доступных тем
 
-<figure><img src="../.gitbook/assets/ohmyposh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ohmyposh.png" alt=""><figcaption></figcaption></figure>
