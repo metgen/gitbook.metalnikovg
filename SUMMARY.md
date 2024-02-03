@@ -13,6 +13,7 @@
   * [🎨 Внешний вид](linux/gaidy-po-linux/vneshnii-vid/README.md)
     * [Консоль Gnome](linux/gaidy-po-linux/vneshnii-vid/konsol-gnome.md)
     * [Доп. настройки Gnome](linux/gaidy-po-linux/vneshnii-vid/dop.-nastroiki-gnome.md)
+    * [Смена темы Grub](linux/gaidy-po-linux/vneshnii-vid/smena-temy-grub.md)
   * [📂 Файлы](linux/gaidy-po-linux/faily/README.md)
     * [Монтирование сетевых папок](linux/gaidy-po-linux/faily/montirovanie-setevykh-papok.md)
   * [🗃 Команды](linux/gaidy-po-linux/komandy/README.md)
