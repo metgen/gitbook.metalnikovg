@@ -14,6 +14,8 @@
     * [Консоль Gnome](linux/gaidy-po-linux/vneshnii-vid/konsol-gnome.md)
     * [Доп. настройки Gnome](linux/gaidy-po-linux/vneshnii-vid/dop.-nastroiki-gnome.md)
     * [Смена темы Grub](linux/gaidy-po-linux/vneshnii-vid/smena-temy-grub.md)
+    * [Иконки Papirus](linux/gaidy-po-linux/vneshnii-vid/ikonki-papirus.md)
+    * [Папки Papirus](linux/gaidy-po-linux/vneshnii-vid/papki-papirus.md)
   * [📂 Файлы](linux/gaidy-po-linux/faily/README.md)
     * [Монтирование сетевых папок](linux/gaidy-po-linux/faily/montirovanie-setevykh-papok.md)
     * [Настройка BTRFS subvolumes](linux/gaidy-po-linux/faily/nastroika-btrfs-subvolumes.md)
