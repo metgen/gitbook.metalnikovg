@@ -19,7 +19,9 @@
     * [Настройка BTRFS subvolumes](linux/gaidy-po-linux/faily/nastroika-btrfs-subvolumes.md)
   * [🗃 Команды](linux/gaidy-po-linux/komandy/README.md)
     * [Команда cp](linux/gaidy-po-linux/komandy/komanda-cp.md)
-* [💻 Приложения](linux/prilozheniya.md)
+* [💻 Приложения](linux/prilozheniya/README.md)
+  * [Бэкап](linux/prilozheniya/bekap/README.md)
+    * [Timeshift](linux/prilozheniya/bekap/timeshift.md)
 * [💽 Дистрибутивы](linux/distributivy/README.md)
   * [Fedora](linux/distributivy/fedora.md)
 
