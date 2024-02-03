@@ -10,7 +10,7 @@ GRUB (GRand Unified Bootloader) — загрузчик операционной 
 
 Мне например понравилась тема [CyberRe](https://www.gnome-look.org/p/1420727).
 
-<figure><img src="../../../.gitbook/assets/cyberre.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://images.pling.com/img/00/00/58/62/86/1420727/7c64c1e9d60dfe75dff3b04209682e29e9cdd361f35f61647e1359bb3f8577ed2b94.png" alt=""><figcaption></figcaption></figure>
 
 Но она имеет один небольшой недостаток, при выборе пункта загрузки появлялось черное окно терминала на несколько секунд, только потом начиналась загрузка системы. Но я исправил этот недостаток, скачать ее доработанную версию можно с [GitHub](https://github.com/metgen/CyberReFersh), для этого введите в терминале
 
