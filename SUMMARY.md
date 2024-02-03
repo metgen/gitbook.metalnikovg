@@ -16,6 +16,7 @@
     * [Смена темы Grub](linux/gaidy-po-linux/vneshnii-vid/smena-temy-grub.md)
   * [📂 Файлы](linux/gaidy-po-linux/faily/README.md)
     * [Монтирование сетевых папок](linux/gaidy-po-linux/faily/montirovanie-setevykh-papok.md)
+    * [Настраиваем BTRFS subvolumes](linux/gaidy-po-linux/faily/nastraivaem-btrfs-subvolumes.md)
   * [🗃 Команды](linux/gaidy-po-linux/komandy/README.md)
     * [Команда cp](linux/gaidy-po-linux/komandy/komanda-cp.md)
 * [💻 Приложения](linux/prilozheniya.md)
