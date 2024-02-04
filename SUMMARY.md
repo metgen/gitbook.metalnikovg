@@ -40,17 +40,17 @@
 ## 🪟 Windows
 
 * [📝 Гайды по Windows](windows/gaidy-po-windows/README.md)
-  * [Обновление приложений Windows при помощи Winget](windows/gaidy-po-windows/obnovlenie-prilozhenii-windows-pri-pomoshi-winget.md)
   * [Кастомизируем PowerShell при помощи Oh My Posh](windows/gaidy-po-windows/kastomiziruem-powershell-pri-pomoshi-oh-my-posh.md)
-* [🗃 PowerShell](windows/powershell.md)
+* [🗃 PowerShell](windows/powershell/README.md)
+  * [Обновление приложений Windows при помощи Winget](windows/powershell/obnovlenie-prilozhenii-windows-pri-pomoshi-winget.md)
 
 ## 🌐 Сети
 
-* [Page 1](seti/page-1.md)
+* [🕸 MikroTik](seti/mikrotik.md)
 
 ## 🤖 Android
 
-* [Page 2](android/page-2.md)
+* [🔧 ADB](android/adb.md)
 
 ***
 
