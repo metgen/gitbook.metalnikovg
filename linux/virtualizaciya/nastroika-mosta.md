@@ -10,7 +10,7 @@ description: Настройка мостового соединения
 
 Для того чтобы просмотреть все наши сетевые подключения введем
 
-```
+```bash
 nmcli con show
 ```
 
@@ -30,31 +30,31 @@ nmcli con show
 
 Для дальнейшего удобства сменим имя "Проводное подключение 1" на "eth0"
 
-```
+```bash
 sudo nmcli con mod 'Проводное подключение 1' con-name 'eth0'
 ```
 
 Создадим соединение типа bridge с именемм br0, интерфейсом br0&#x20;
 
-```
+```bash
 nmcli con add ifname br0 type bridge con-name br0
 ```
 
 Далее нужно создать подключение которое будет соединять интерфейс br0 и enp5s0, тип подключения  ethernet, имя bridge-slave-enp5s0, автоподключение - да
 
-```
+```bash
 nmcli con add ifname enp5s0 type bridge-slave autoconnect yes con-name bridge-slave-enp5s0 master br0
 ```
 
 Отключаем STP
 
-```
+```bash
 nmcli con mod br0 bridge.stp no
 ```
 
 Удалим наше проводное подключение
 
-```
+```bash
 nmcli con del eth0
 ```
 
@@ -64,13 +64,13 @@ nmcli con del eth0
 
 Если вы хотите получить настройки по DHCP вводим
 
-```
+```bash
 nmcli con mod br0 ipv4.method auto
 ```
 
 Если хотите задать свои настройки сети
 
-```
+```bash
 nmcli con mod br0 ipv4.addresses 192.168.0.10/24
 nmcli con mod br0 ipv4.gateway 192.168.0.1
 nmcli con mod br0 ipv4.dns '1.1.1.1,8.8.8.8,8.8.4.4'
@@ -79,13 +79,13 @@ nmcli con mod br0 ipv4.dns-search 'example.com'
 
 Активируем подключение br0
 
-```
+```bash
 nmcli con up br0
 ```
 
 Еще раз проверяем наши сетевые подключения
 
-```
+```bash
 nmcli con show
 ```
 
@@ -93,7 +93,7 @@ nmcli con show
 
 Перезапускаем NetworkManager
 
-```
+```bash
 sudo systemctl restart NetworkManager
 ```
 
@@ -105,11 +105,11 @@ NetworkManager-tui - это консольная утилита с визуал�
 
 Установка
 
-```
+```bash
 dnf install NetworkManager-tui
 ```
 
-```
+```bash
 apt-get install NetworkManager-tui
 ```
 
