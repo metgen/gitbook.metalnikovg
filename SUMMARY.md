@@ -36,6 +36,7 @@
 * [🧬 Виртуализация](linux/virtualizaciya/README.md)
   * [Gnome Boxes](linux/virtualizaciya/gnome-boxes.md)
   * [Virt Manager](linux/virtualizaciya/virt-manager.md)
+  * [Настройка моста](linux/virtualizaciya/nastroika-mosta.md)
 
 ## 🪟 Windows
 
