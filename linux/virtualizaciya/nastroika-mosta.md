@@ -86,10 +86,10 @@ nmcli con up br0
 Еще раз проверяем наши сетевые подключения
 
 ```bash
-nmcli con show
+nmcli con show --activ
 ```
 
-<figure><img src="../../.gitbook/assets/nmcli-bridge.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nmcli-c-s-a.png" alt=""><figcaption></figcaption></figure>
 
 Перезапускаем NetworkManager
 
