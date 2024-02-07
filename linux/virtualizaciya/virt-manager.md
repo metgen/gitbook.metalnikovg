@@ -1,2 +1,0 @@
-# Virt Manager
-
