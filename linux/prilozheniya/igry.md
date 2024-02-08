@@ -1,7 +1,7 @@
 ---
 cover: >-
   https://images.unsplash.com/10/wii.jpg?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxnYW1lfGVufDB8fHx8MTcwNzQxOTI2NHww&ixlib=rb-4.0.3&q=85
-coverY: 0
+coverY: 99.59488272921108
 ---
 
 # 🎮 Игры
