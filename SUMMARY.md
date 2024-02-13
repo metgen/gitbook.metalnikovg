@@ -57,7 +57,12 @@
 
 ## 🤖 Android
 
+* [📝 Гайды](android/gaidy/README.md)
+  * [Активация VoLTE и VoWiFi в Google Pixel](android/gaidy/aktivaciya-volte-i-vowifi-v-google-pixel.md)
 * [🔧 ADB](android/adb.md)
+* [💻 Приложения](android/prilozheniya/README.md)
+  * [Фильмы](android/prilozheniya/filmy.md)
+  * [Инструменты](android/prilozheniya/instrumenty.md)
 
 ***
 
