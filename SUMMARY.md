@@ -40,7 +40,7 @@
   * [Fedora](linux/distributivy/fedora.md)
 * [🧬 Виртуализация](linux/virtualizaciya/README.md)
   * [Gnome Boxes](linux/virtualizaciya/gnome-boxes.md)
-  * [VirtManager](linux/virtualizaciya/virt-manager.md)
+  * [VirtManager](linux/virtualizaciya/virtmanager.md)
   * [Cockpit](linux/virtualizaciya/cockpit.md)
   * [Настройка моста](linux/virtualizaciya/nastroika-mosta.md)
 
