@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Bashell.ru](https://bashell.ru/)
-
 ## О проекте
 
 * [🚀 Bashell GitBook](README.md)
