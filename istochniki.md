@@ -31,3 +31,5 @@ layout:
 
 {% embed url="https://4pda.to" %}
 
+{% embed url="https://skillbox.ru/" %}
+
