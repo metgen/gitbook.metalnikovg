@@ -64,7 +64,9 @@
 
 ## 🧮 Разработка
 
-* [GIT](razrabotka/git.md)
+* [🌴 GIT](razrabotka/git/README.md)
+  * [Установка](razrabotka/git/ustanovka.md)
+  * [Использование](razrabotka/git/ispolzovanie.md)
 
 ***
 
