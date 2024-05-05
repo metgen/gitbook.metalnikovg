@@ -62,6 +62,10 @@
   * [Фильмы](android/prilozheniya/filmy.md)
   * [Инструменты](android/prilozheniya/instrumenty.md)
 
+## 🧮 Разработка
+
+* [GIT](razrabotka/git.md)
+
 ***
 
 * [📚 Источники](istochniki.md)
