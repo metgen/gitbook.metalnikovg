@@ -53,6 +53,8 @@
 
 * [🕸️ MikroTik](seti/mikrotik/README.md)
   * [Базовая настройка](seti/mikrotik/bazovaya-nastroika.md)
+  * [WireGuard VPN Client](seti/mikrotik/wireguard-vpn-client.md)
+  * [Точечная Маршрутизация через тоннель](seti/mikrotik/tochechnaya-marshrutizaciya-cherez-tonnel.md)
 
 ## 🤖 Android
 
