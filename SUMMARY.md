@@ -51,7 +51,8 @@
 
 ## 🌐 Сети
 
-* [🕸️ MikroTik](seti/mikrotik.md)
+* [🕸️ MikroTik](seti/mikrotik/README.md)
+  * [Базовая настройка](seti/mikrotik/bazovaya-nastroika.md)
 
 ## 🤖 Android
 
@@ -62,11 +63,13 @@
   * [Фильмы](android/prilozheniya/filmy.md)
   * [Инструменты](android/prilozheniya/instrumenty.md)
 
-## 🧮 Разработка
+## 🧮 Разное
 
-* [🌴 GIT](razrabotka/git/README.md)
-  * [Установка](razrabotka/git/ustanovka.md)
-  * [Использование](razrabotka/git/ispolzovanie.md)
+* [🌴 GIT](raznoe/git/README.md)
+  * [Установка](raznoe/git/ustanovka.md)
+  * [Использование](raznoe/git/ispolzovanie.md)
+* [🐳 Docker](raznoe/docker/README.md)
+  * [Установка](raznoe/docker/ustanovka.md)
 
 ***
 

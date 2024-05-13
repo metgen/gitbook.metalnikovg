@@ -21,11 +21,11 @@ layout:
 
 # 📚 Источники
 
-{% embed url="https://plafon.gitbook.io/fedora-zero/o-proekte/readme" %}
+{% embed url="https://losst.pro/" %}
 
 {% embed url="https://linkmeup.gitbook.io/sdsm/" %}
 
-{% embed url="https://losst.pro/" %}
+{% embed url="https://plafon.gitbook.io/fedora-zero/o-proekte/readme" %}
 
 {% embed url="https://www.xda-developers.com/" %}
 
@@ -33,3 +33,4 @@ layout:
 
 {% embed url="https://skillbox.ru/" %}
 
+{% embed url="https://selectel.ru/" %}
