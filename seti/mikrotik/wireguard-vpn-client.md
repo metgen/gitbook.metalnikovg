@@ -1,2 +1,0 @@
-# WireGuard VPN Client
-

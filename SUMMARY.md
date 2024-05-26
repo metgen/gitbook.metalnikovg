@@ -7,18 +7,18 @@
 
 ## 🐧 Linux
 
-* [📝 Гайды](linux/gaidy/README.md)
-  * [🎨 Внешний вид](linux/gaidy/vneshnii-vid/README.md)
-    * [Консоль Gnome](linux/gaidy/vneshnii-vid/konsol-gnome.md)
-    * [Доп. настройки Gnome](linux/gaidy/vneshnii-vid/dop.-nastroiki-gnome.md)
-    * [Смена темы Grub](linux/gaidy/vneshnii-vid/smena-temy-grub.md)
-    * [Иконки Papirus](linux/gaidy/vneshnii-vid/ikonki-papirus.md)
-    * [Папки Papirus](linux/gaidy/vneshnii-vid/papki-papirus.md)
-    * [Терминал на ZSH и Powerlevel10k](linux/gaidy/vneshnii-vid/terminal-na-zsh-i-powerlevel10k.md)
-  * [📂 Прочее](linux/gaidy/prochee/README.md)
-    * [Монтирование сетевых папок](linux/gaidy/prochee/montirovanie-setevykh-papok.md)
-    * [Настройка BTRFS subvolumes](linux/gaidy/prochee/nastroika-btrfs-subvolumes.md)
-    * [Включение SSH](linux/gaidy/prochee/vklyuchenie-ssh.md)
+* [📝 Инструкции](linux/instrukcii/README.md)
+  * [🎨 Внешний вид](linux/instrukcii/vneshnii-vid/README.md)
+    * [Консоль Gnome](linux/instrukcii/vneshnii-vid/konsol-gnome.md)
+    * [Доп. настройки Gnome](linux/instrukcii/vneshnii-vid/dop.-nastroiki-gnome.md)
+    * [Смена темы Grub](linux/instrukcii/vneshnii-vid/smena-temy-grub.md)
+    * [Иконки Papirus](linux/instrukcii/vneshnii-vid/ikonki-papirus.md)
+    * [Папки Papirus](linux/instrukcii/vneshnii-vid/papki-papirus.md)
+    * [Терминал на ZSH и Powerlevel10k](linux/instrukcii/vneshnii-vid/terminal-na-zsh-i-powerlevel10k.md)
+  * [📂 Прочее](linux/instrukcii/prochee/README.md)
+    * [Монтирование сетевых папок](linux/instrukcii/prochee/montirovanie-setevykh-papok.md)
+    * [Настройка BTRFS subvolumes](linux/instrukcii/prochee/nastroika-btrfs-subvolumes.md)
+    * [Включение SSH](linux/instrukcii/prochee/vklyuchenie-ssh.md)
 * [🗃️ Терминал](linux/terminal/README.md)
   * [Команды](linux/terminal/komandy/README.md)
     * [cp](linux/terminal/komandy/cp.md)
@@ -44,22 +44,22 @@
 
 ## 🪟 Windows
 
-* [📝 Гайды по Windows](windows/gaidy-po-windows/README.md)
-  * [Кастомизируем PowerShell при помощи Oh My Posh](windows/gaidy-po-windows/kastomiziruem-powershell-pri-pomoshi-oh-my-posh.md)
+* [📝 Инструкции](windows/instrukcii/README.md)
+  * [Кастомизируем PowerShell при помощи Oh My Posh](windows/instrukcii/kastomiziruem-powershell-pri-pomoshi-oh-my-posh.md)
 * [🗃️ PowerShell](windows/powershell/README.md)
   * [Обновление приложений Windows при помощи Winget](windows/powershell/obnovlenie-prilozhenii-windows-pri-pomoshi-winget.md)
 
 ## 🌐 Сети
 
 * [🕸️ MikroTik](seti/mikrotik/README.md)
-  * [Базовая настройка](seti/mikrotik/bazovaya-nastroika.md)
-  * [WireGuard VPN Client](seti/mikrotik/wireguard-vpn-client.md)
-  * [Точечная Маршрутизация через тоннель](seti/mikrotik/tochechnaya-marshrutizaciya-cherez-tonnel.md)
+  * [Инструкции](seti/mikrotik/instrukcii/README.md)
+    * [Базовая настройка](seti/mikrotik/instrukcii/bazovaya-nastroika.md)
+    * [Точечная маршрутизация на Mikrotik: Wireguard, BGP, Address lists, DNS static, Mangle](seti/mikrotik/instrukcii/tochechnaya-marshrutizaciya-na-mikrotik-wireguard-bgp-address-lists-dns-static-mangle.md)
 
 ## 🤖 Android
 
-* [📝 Гайды](android/gaidy/README.md)
-  * [Активация VoLTE и VoWiFi в Google Pixel](android/gaidy/aktivaciya-volte-i-vowifi-v-google-pixel.md)
+* [📝 Инструкции](android/instrukcii/README.md)
+  * [Активация VoLTE и VoWiFi в Google Pixel](android/instrukcii/aktivaciya-volte-i-vowifi-v-google-pixel.md)
 * [🔧 ADB](android/adb.md)
 * [💻 Приложения](android/prilozheniya/README.md)
   * [Фильмы](android/prilozheniya/filmy.md)
@@ -72,6 +72,7 @@
   * [Использование](raznoe/git/ispolzovanie.md)
 * [🐳 Docker](raznoe/docker/README.md)
   * [Установка](raznoe/docker/ustanovka.md)
+  * [DWG](raznoe/docker/dwg.md)
 
 ***
 

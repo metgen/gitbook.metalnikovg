@@ -62,7 +62,7 @@ sudo dnf install timeshift
 ```
 
 {% hint style="warning" %}
-Если вы хотите установить Timeshift в Fedora Linux то для начала нужно перейти к гайду [nastroika-btrfs-subvolumes.md](../gaidy/prochee/nastroika-btrfs-subvolumes.md "mention")так как приложение создавалась под deb-подобные дистрибутивы и не понимает маркировку subvolumes в Fedora Linux.
+Если вы хотите установить Timeshift в Fedora Linux то для начала нужно перейти к гайду [nastroika-btrfs-subvolumes.md](../instrukcii/prochee/nastroika-btrfs-subvolumes.md "mention")так как приложение создавалась под deb-подобные дистрибутивы и не понимает маркировку subvolumes в Fedora Linux.
 {% endhint %}
 
 #### В дистрибутивах с пакетным менеджером APT
