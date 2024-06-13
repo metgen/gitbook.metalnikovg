@@ -44,6 +44,17 @@
 * [🗃️ PowerShell](windows/powershell/README.md)
   * [Обновление приложений Windows при помощи Winget](windows/powershell/obnovlenie-prilozhenii-windows-pri-pomoshi-winget.md)
 
+## 🧬 Виртуализация
+
+* [📝 Инструкции](virtualizaciya/instrukcii/README.md)
+  * [Proxmox VE](virtualizaciya/instrukcii/proxmox-ve/README.md)
+    * [Установка](virtualizaciya/instrukcii/proxmox-ve/ustanovka.md)
+  * [Hyper-V](virtualizaciya/instrukcii/hyper-v.md)
+  * [Gnome Boxes](virtualizaciya/instrukcii/gnome-boxes.md)
+  * [VirtManager](virtualizaciya/instrukcii/virtmanager.md)
+  * [Cockpit](virtualizaciya/instrukcii/cockpit.md)
+  * [Настройка моста](virtualizaciya/instrukcii/nastroika-mosta.md)
+
 ## 🌐 Сети
 
 * [🕸️ MikroTik](seti/mikrotik/README.md)
@@ -72,14 +83,3 @@
 ***
 
 * [📚 Источники](istochniki.md)
-
-## 🧬 Виртуализация
-
-* [📝 Инструкции](virtualizaciya/instrukcii/README.md)
-  * [Proxmox VE](virtualizaciya/instrukcii/proxmox-ve/README.md)
-    * [Установка](virtualizaciya/instrukcii/proxmox-ve/ustanovka.md)
-  * [Hyper-V](virtualizaciya/instrukcii/hyper-v.md)
-  * [Gnome Boxes](virtualizaciya/instrukcii/gnome-boxes.md)
-  * [VirtManager](virtualizaciya/instrukcii/virtmanager.md)
-  * [Cockpit](virtualizaciya/instrukcii/cockpit.md)
-  * [Настройка моста](virtualizaciya/instrukcii/nastroika-mosta.md)
