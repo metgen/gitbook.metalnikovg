@@ -36,11 +36,6 @@
   * [💿 Разное](linux/prilozheniya/raznoe.md)
 * [💽 Дистрибутивы](linux/distributivy/README.md)
   * [Fedora](linux/distributivy/fedora.md)
-* [🧬 Виртуализация](linux/virtualizaciya/README.md)
-  * [Gnome Boxes](linux/virtualizaciya/gnome-boxes.md)
-  * [VirtManager](linux/virtualizaciya/virtmanager.md)
-  * [Cockpit](linux/virtualizaciya/cockpit.md)
-  * [Настройка моста](linux/virtualizaciya/nastroika-mosta.md)
 
 ## 🪟 Windows
 
@@ -77,3 +72,14 @@
 ***
 
 * [📚 Источники](istochniki.md)
+
+## 🧬 Виртуализация
+
+* [📝 Инструкции](virtualizaciya/instrukcii/README.md)
+  * [Proxmox VE](virtualizaciya/instrukcii/proxmox-ve/README.md)
+    * [Установка](virtualizaciya/instrukcii/proxmox-ve/ustanovka.md)
+  * [Hyper-V](virtualizaciya/instrukcii/hyper-v.md)
+  * [Gnome Boxes](virtualizaciya/instrukcii/gnome-boxes.md)
+  * [VirtManager](virtualizaciya/instrukcii/virtmanager.md)
+  * [Cockpit](virtualizaciya/instrukcii/cockpit.md)
+  * [Настройка моста](virtualizaciya/instrukcii/nastroika-mosta.md)
